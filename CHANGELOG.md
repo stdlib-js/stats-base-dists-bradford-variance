@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-29)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`0a23889`](https://github.com/stdlib-js/stdlib/commit/0a23889dd55afcd8f1a85cd208a2397c931637bd) - **test:** increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`0ec467e`](https://github.com/stdlib-js/stdlib/commit/0ec467e681c02b54383c7f50b5fbb07a938e16cb) - **chore:** remove excess trailing newlines [(#7512)](https://github.com/stdlib-js/stdlib/pull/7512) _(by stdlib-bot)_
 -   [`d477f6b`](https://github.com/stdlib-js/stdlib/commit/d477f6bb4d274ecfafba1fd1c31374d429589b36) - **chore:** clean-up _(by Athan Reines)_
 -   [`94efaa4`](https://github.com/stdlib-js/stdlib/commit/94efaa41dbcf4719bff4fd4bb73ed1a22204716e) - **feat:** add C implementation for `stats/base/dists/bradford/variance` _(by Philipp Burckhardt)_
